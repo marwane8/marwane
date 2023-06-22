@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There 👋! I'm Marwane Taroua</h1>
+<h1 align="center">Hi There 👋, I'm Marwane Taroua</h1>
 
 <h3 align="center">
 I am a Software Engineer with 3 years of experience using Python, Java, C++ and JavaScript to build full stack, and data applications.
