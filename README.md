@@ -14,7 +14,7 @@ I am a Software Engineer with 3 years of experience using Python, Java, C++ and 
 ## Experience & Tools
 Majority of my work lies in company repositories within the fintech space. My experience mainly derives from building out data REST APIs and ETL Pipelines within Chase and Bloomberg.
 
-In my freetime I enjoy working on the muslim league! Which is a league management web app geared toward processing the data of my local sports league.
+In my freetime I enjoy working on the muslim league! Which is a league management web app geared toward processing the data for my local sports teams.
 
 My toolset:
 - **Web |**  Nextjs, Fast API, Python
