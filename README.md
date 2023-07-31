@@ -25,8 +25,8 @@ My toolset:
 
 ## The summary of my repos
 ### Projects
-- [The Muslim League](https://github.com/marwane8/muslim-league)
+- [The Muslim League](https://github.com/marwane8/muslim-league) - Sports League Managment App
 - [Phlow 2D](https://github.com/marwane8/phlow-2d) - 2D Physics Engine
 ### General 
 - [Data Structures & Algorithms](https://github.com/marwane8/algorithms-data-structures)
-- [CPP Exampels](https://github.com/marwane8/cpp-examples)
+- [CPP Examples](https://github.com/marwane8/cpp-examples)
