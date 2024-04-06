@@ -14,7 +14,6 @@ I am a Software Engineer with 3 years of experience using Python, Java, C++ and 
 ## Experience & Tools
 Majority of my work lies in company repositories within the fintech space. My experience mainly derives from building out data REST APIs and ETL Pipelines within Chase and Bloomberg.
 
-In my freetime I enjoy working on the muslim league! Which is a league management web app geared toward processing the data for my local sports teams.
 
 My toolset:
 - **Web |**  Nextjs, Fast API, Python
@@ -25,7 +24,6 @@ My toolset:
 
 ## The summary of my repos
 ### Projects
-- [The Muslim League](https://github.com/marwane8/muslim-league) - Sports League Managment App
 - [Phlow 2D](https://github.com/marwane8/phlow-2d) - 2D Physics Engine
 ### General 
 - [Data Structures & Algorithms](https://github.com/marwane8/algorithms-data-structures)
